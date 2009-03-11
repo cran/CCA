@@ -1,6 +1,6 @@
 \name{loo}
 \alias{loo}
-
+\encoding{latin1}
 \title{Leave-one-out criterion}
 
 \description{ The \code{loo()} function can be viewed as an internal

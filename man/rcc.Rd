@@ -1,6 +1,6 @@
 \name{rcc}
 \alias{rcc}
-
+\encoding{latin1}
 \title{Regularized Canonical Correlation Analysis}
 \description{
 The function performs the Regularized extension of the Canonical Correlation Analysis

@@ -1,6 +1,6 @@
 \name{matcor}
 \alias{matcor}
-
+\encoding{latin1}
 \title{Correlations matrices}
 \description{
 The function computes the correlation matrices within and between two datasets.
@@ -14,9 +14,7 @@ matcor(X, Y)
   \item{Y}{numeric matrix (n * q), containing the Y coordinates.}
 }
 
-\details{
 
-}
 
 \value{
 A list containing the following components:
@@ -27,7 +25,6 @@ A list containing the following components:
 
 \author{Sébastien Déjean, Ignacio González}
 
-}
 \seealso{\code{\link{img.matcor}}}
 
 \examples{

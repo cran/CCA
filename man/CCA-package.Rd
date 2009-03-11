@@ -1,6 +1,7 @@
 \name{CCA-package}
 \alias{CCA-package}
 \alias{CCA}
+\encoding{latin1}
 \docType{package}
 \title{Canonical correlation analysis}
 

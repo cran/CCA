@@ -1,6 +1,6 @@
 \name{estim.regul}
 \alias{estim.regul}
-
+\encoding{latin1}
 \title{Estimate the parameters of regularization}
 
 \description{
@@ -30,7 +30,7 @@ estim.regul(X, Y, grid1 = NULL, grid2 = NULL, plt = TRUE)
   maximal value reached on the grid.}
 
 
-\author{Sébastien Déjean, Ignacio González}}
+\author{Sébastien Déjean, Ignacio González}
 
 \seealso{\code{\link{loo}}}
 \examples{
@@ -39,6 +39,5 @@ estim.regul(X, Y, grid1 = NULL, grid2 = NULL, plt = TRUE)
 #X=as.matrix(nutrimouse$gene)
 #Y=as.matrix(nutrimouse$lipid)
 #res.regul = estim.regul(X,Y,c(0.01,0.5),c(0.1,0.2,0.3)) 
-}
 }
 \keyword{multivariate}

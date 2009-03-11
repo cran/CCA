@@ -1,6 +1,6 @@
 \name{img.estim.regul}
 \alias{img.estim.regul}
-
+\encoding{latin1}
 \title{Plot the cross-validation criterion}
 \description{
 This function provide a visualization of the values of the
@@ -22,7 +22,5 @@ img.estim.regul(estim)
 
 \seealso{\code{\link{estim.regul}}}
 \examples{
-
-  }
 }
 \keyword{dplot}

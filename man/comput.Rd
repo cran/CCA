@@ -1,5 +1,6 @@
 \name{comput}
 \alias{comput}
+\encoding{latin1}
 \title{Additional computations for CCA}
 \description{
 The \code{comput()} function can be viewed as an internal function. It is called by \code{cc()}
@@ -26,6 +27,6 @@ comput(X, Y, res)
 
 \author{Sébastien Déjean, Ignacio González}
 
-\seealso{\code{\link{cc}}, {\code{\link{rcc}}}
+\seealso{\code{\link{cc}}, \code{\link{rcc}}
 }
 \keyword{multivariate}

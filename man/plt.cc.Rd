@@ -1,5 +1,6 @@
 \name{plt.cc}
 \alias{plt.cc}
+\encoding{latin1}
 \title{Graphical outputs for canonical correlation analysis}
 \description{
 This function calls either \code{plt.var()} or \code{plt.indiv()} or both functions
@@ -37,5 +38,5 @@ res.cc=cc(X,Y)
 plt.cc(res.cc)
 plt.cc(res.cc,d1=1,d2=3,type="v",var.label=TRUE)
 }
-}
+
 \keyword{dplot}

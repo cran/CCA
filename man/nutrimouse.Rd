@@ -1,5 +1,6 @@
 \name{nutrimouse}
 \alias{nutrimouse}
+\encoding{latin1}
 \docType{data}
 \title{Nutrimouse dataset}
   \description{
@@ -11,15 +12,17 @@
 \usage{data(nutrimouse)}
 \format{
   A list containing the following components:
+  \itemize{
   \item \code{gene}: data frame (40 * 120) with numerical variables
   \item \code{lipid}: data frame (40 * 21) with numerical variables
   \item \code{diet}: factor vector (40)
   \item \code{genotype}: factor vector (40)
+  }
 
 }
 \details{
 Two sets of variables were measured on 40 mice:
-
+\itemize{
 \item expressions of 120 genes potentially involved in nutritional problems.
     
 \item concentrations of 21 hepatic fatty acids.
@@ -35,7 +38,7 @@ hydrogenated coconut oil for a saturated fatty acid diet (COC),
 sunflower oil for an Omega6 fatty acid-rich diet (SUN), linseed oil for
 an Omega3-rich diet (LIN) and corn/colza/enriched fish oils for the FISH
 diet (43/43/14).
-    
+}    
 }
 \source{
   P. Martin, H. Guillou, F. Lasserre, S. Déjean, A. Lan, J-M. Pascussi,

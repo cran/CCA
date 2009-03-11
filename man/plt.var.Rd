@@ -1,5 +1,6 @@
 \name{plt.var}
 \alias{plt.var}
+\encoding{latin1}
 \title{Variables representation for CCA}
 \description{
 This function provides variables representation on the canonical variates.

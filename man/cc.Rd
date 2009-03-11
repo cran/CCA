@@ -1,6 +1,6 @@
 \name{cc}
 \alias{cc}
-
+\encoding{latin1}
 \title{Canonical Correlation Analysis}
 
 \description{

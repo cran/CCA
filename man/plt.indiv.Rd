@@ -1,5 +1,6 @@
 \name{plt.indiv}
 \alias{plt.indiv}
+\encoding{latin1}
 \title{Individuals representation for CCA}
 \description{
 This function provides individuals representation on the canonical variates.
@@ -20,5 +21,5 @@ plt.indiv(res, d1, d2, ind.names = NULL)
 \author{Sébastien Déjean, Ignacio González}
 
 \seealso{\code{\link{plt.var}}, \code{\link{plt.cc}}}
-}
+
 \keyword{dplot}

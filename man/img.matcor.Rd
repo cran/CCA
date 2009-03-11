@@ -1,6 +1,6 @@
 \name{img.matcor}
 \alias{img.matcor}
-
+\encoding{latin1}
 \title{Image of correlation matrices}
 
 \description{
