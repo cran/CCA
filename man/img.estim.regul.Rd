@@ -12,15 +12,10 @@ img.estim.regul(estim)
 \arguments{
   \item{estim}{Object returned by \code{estim.regul()}.}
 }
-\details{
-
-}
 
 
 \author{Sébastien Déjean, Ignacio González}
 
 
 \seealso{\code{\link{estim.regul}}}
-\examples{
-}
 \keyword{dplot}

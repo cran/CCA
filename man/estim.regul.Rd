@@ -21,9 +21,6 @@ estim.regul(X, Y, grid1 = NULL, grid2 = NULL, plt = TRUE)
   \item{plt}{logical argument indicating whether an image should be
     plotted by calling the \code{img.estim.regul()} function.}
 }
-\details{
-
-}
 \value{
   A 3-vector containing the 2 values of the parameters of regularization
   on which the leave-one-out criterion reached its maximum; and the

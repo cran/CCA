@@ -1,8 +1,8 @@
-02b29db0e95954cb48b2822bc685eaf6 *DESCRIPTION
-c64df3be5c359776906cb425625ccb70 *NAMESPACE
+1f2e7c80f782bb44b2061a3ee96e478b *DESCRIPTION
+e37c763eec450c4dc96bbc5c316f8cbb *NAMESPACE
 3bdb0647c98b1a79c871918ed67f7390 *R/cc.R
 99d04b87011d49f56eaa3c96e8a7b708 *R/comput.R
-6f2ad3fba4a745718c53d47e645eb2a7 *R/estim.regul.R
+9e49ddf9c225c3fae89a4c2b3fd1e4d8 *R/estim.regul.R
 bcc009e665e9d0c8408a001c308faa35 *R/img.estim.regul.R
 57f1614972eb6e8473f8249f5a077b9c *R/img.matcor.R
 f481749bab27314dbdf26ffcff5debdc *R/loo.R
@@ -11,12 +11,12 @@ f481749bab27314dbdf26ffcff5debdc *R/loo.R
 d211c2e9968c564c08d1fea1c9eaf015 *R/plt.indiv.R
 a8c41c39216b4853117f68ac7e570379 *R/plt.var.R
 bb0e39a19e5690b358ccc99f9d40b1ec *R/rcc.R
-9f95e72fc4b555deb4dc366b9ffdd280 *data/nutrimouse.rda
+df1bfed68d6d4c68186a151b35ec51ca *data/nutrimouse.rda
 9253add31419f17dcdbe4e0943777fb8 *man/CCA-package.Rd
 7320eaafbe5e8edf4068f10154d02ad7 *man/cc.Rd
 221df2beaa0aa9609e27b53de4880ff2 *man/comput.Rd
-a34cf3a4e59f832c1988f7e1a85328a4 *man/estim.regul.Rd
-f15a2b7725c76496a767c8b5910a33d1 *man/img.estim.regul.Rd
+8ad4e0deb1c8ff89ef6c868ac839360e *man/estim.regul.Rd
+f96457a08b0d8c893fa94b599f6bd5af *man/img.estim.regul.Rd
 9dcc007d9522c5f379679b58b09a9829 *man/img.matcor.Rd
 a7c9ae3e7f94e58aebcecb1ee4e294b5 *man/loo.Rd
 5ea2219f741c0347cbf268ab396b9d97 *man/matcor.Rd

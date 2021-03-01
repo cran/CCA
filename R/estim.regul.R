@@ -6,7 +6,7 @@ function (X, Y, grid1 = NULL, grid2 = NULL, plt = TRUE)
     grid = expand.grid(grid1, grid2)
     res = apply(grid, 1, function(x) {loo(X, Y, x[1], x[2])})
     res.grid = cbind(grid, res)
-    mat = matrix(res, nc = length(grid2))
+    mat = matrix(res, ncol = length(grid2))
 
     if (isTRUE(plt)) {
         img.estim.regul(list(grid1 = grid1, grid2 = grid2, mat = mat))

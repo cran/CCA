@@ -9,3 +9,8 @@ import(
   fda,
   fields
 )
+
+importFrom("grDevices", "heat.colors")
+importFrom("graphics", "abline", "axis", "box", "image", "layout",
+           "lines", "par", "points", "text")
+importFrom("stats", "cor", "cov", "var")
