@@ -1,4 +1,4 @@
-1f2e7c80f782bb44b2061a3ee96e478b *DESCRIPTION
+8a8a971b8fe0b4a75ef7cc461cad68ce *DESCRIPTION
 e37c763eec450c4dc96bbc5c316f8cbb *NAMESPACE
 3bdb0647c98b1a79c871918ed67f7390 *R/cc.R
 99d04b87011d49f56eaa3c96e8a7b708 *R/comput.R
@@ -12,7 +12,7 @@ d211c2e9968c564c08d1fea1c9eaf015 *R/plt.indiv.R
 a8c41c39216b4853117f68ac7e570379 *R/plt.var.R
 bb0e39a19e5690b358ccc99f9d40b1ec *R/rcc.R
 df1bfed68d6d4c68186a151b35ec51ca *data/nutrimouse.rda
-9253add31419f17dcdbe4e0943777fb8 *man/CCA-package.Rd
+92ccdd447a7a2001d33f0008fa9ddb44 *man/CCA-package.Rd
 7320eaafbe5e8edf4068f10154d02ad7 *man/cc.Rd
 221df2beaa0aa9609e27b53de4880ff2 *man/comput.Rd
 8ad4e0deb1c8ff89ef6c868ac839360e *man/estim.regul.Rd
